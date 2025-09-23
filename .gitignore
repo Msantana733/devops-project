@@ -1,0 +1,14 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore curl config file
+.curlrc
+
+# Ignore Vagrant specific files
+.vagrant/
+vms/ubuntu/.vagrant/
+
+# Optional: Ignore any other unnecessary files
+*.log
+*.bak
+
